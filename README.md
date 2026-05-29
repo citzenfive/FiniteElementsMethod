@@ -47,4 +47,4 @@ Then run each notebook cell by cell.
 
 ## Author
 
-João Víctor
+João Víctor Costa de Oliveira, MSc.
