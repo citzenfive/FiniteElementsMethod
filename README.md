@@ -1,4 +1,4 @@
-# Finite Element Analysis
+# Finite Element Method
 
 This repository contains Jupyter notebooks developed for a Numerical Analysis course focused on the Finite Element Method.
 
